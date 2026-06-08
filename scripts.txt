@@ -1,0 +1,6 @@
+
+run fastapi server
+-- PS U:\Projects\IntakeHub\Util> python -m uvicorn util.scorer.app:app --reload --port 8081
+
+run sync process
+-- PS U:\Projects\IntakeHub> python -m util.main

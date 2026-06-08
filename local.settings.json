@@ -1,0 +1,15 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "python",
+      "PG_DSN": "host=dev-ussouthc-surgweb-postgressql.postgres.database.azure.com port=5432 dbname=surg user=surguser password=Surg!2024@# sslmode=require",
+      "HMAC_KEY": "afnlnouifa4387nnjilka",
+      "BATCH_SIZE": "2000",
+      "CHECKPOINT_DIR": ".",
+      "MSSQL_SOURCES": "spec,excesssurplus",
+      "MSSQL_DSN_EXCESSSURPLUS": "Driver={ODBC Driver 17 for SQL Server};Server=...;",
+      "MSSQL_DSN_SPEC": "Driver={ODBC Driver 17 for SQL Server};Server=...;"
+    }
+  }
+      

@@ -1,0 +1,10 @@
+# requirements.txt
+# Add your project dependencies here
+pyodbc
+psycopg2-binary
+rapidfuzz
+Metaphone
+python-slugify
+fastapi
+python-dotenv
+azure-functions==1.19.0
